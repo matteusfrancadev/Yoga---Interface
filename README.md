@@ -19,7 +19,7 @@ O projeto está e essas foram as tarefas executadas:
 - [x] Utilizar figma para ajustar tamanhos e cores
 
 ## 💻 Link
-<a href="" target="_blank"> Link do projeto</a>
+<a href="https://matteusfrancadev.github.io/Yoga---Interface/" target="_blank"> Link do projeto</a>
 
 ## 🤝 Colaboradores
 
