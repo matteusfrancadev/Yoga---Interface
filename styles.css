@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #E5E5E5;
+}
+
+.container {
+    width:410px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-yoga {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 175px;
+    margin-bottom: 122px;
+}
+
+input {
+    display: block;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    width: 321px;
+    height: 46px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    margin-bottom: 21px;
+    padding: 15px;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.forgot-password {
+    display: block;
+    text-align: end;
+    margin-right: 50px;
+    text-decoration: none;
+    color: #000000;
+}
+
+button {
+    display: block;
+    margin-top: 38px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #323232;
+    width: 133px;
+    height: 46px;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);  
+    border-radius: 10px;
+    border: none;
+    color: #FFFFFF;
+}
+
+.sign-up {
+    margin-top: 21px;
+}
+
+p {
+    text-align: center;
+}
+
+.or {
+    margin-top: 50px;
+    color: black;
+}
+
+.image-networks {
+    margin-top: 35px;
+    text-align: center;
+}
+
+.network {
+    margin-left: 10px;
+    margin-right: 10px;
+}
